@@ -1,6 +1,8 @@
  SVM – Email Spam Classification
 
  App link: https://spamdetection-gmnjudr9kn7e6xnz5doytz.streamlit.app/
+
+ 
 📌 Problem Statement
 
 We want to build an SVM classifier to detect whether an email is Spam (1) or Not Spam (0).
