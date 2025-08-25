@@ -1,4 +1,6 @@
-📧 Task 3: SVM – Email Spam Classification
+ SVM – Email Spam Classification
+
+ App link: https://spamdetection-gmnjudr9kn7e6xnz5doytz.streamlit.app/
 📌 Problem Statement
 
 We want to build an SVM classifier to detect whether an email is Spam (1) or Not Spam (0).
@@ -101,13 +103,14 @@ New Email Prediction Example
 
 Prediction: Spam (Prob=0.92)
 
-📈 Visualizations
-
 Confusion Matrix Heatmap
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/71ad9705-109d-4860-b0a9-9be82b2835d9" />
+
 
 ROC Curve
 
-(You can run plotting scripts provided earlier for visualization.)
+<img width="536" height="470" alt="image" src="https://github.com/user-attachments/assets/697f14a6-9940-4acd-96a9-1c91bb3b3eac" />
+
 
 ✅ Conclusion
 
@@ -116,3 +119,4 @@ SVM with RBF kernel performs well for spam classification.
 Both Accuracy and ROC-AUC should be reported for robust evaluation.
 
 The given new email (free=2.1, money=1.3, offer=0.7, length=180) is predicted as Spam with high probability.
+
